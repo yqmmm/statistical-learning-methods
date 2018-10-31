@@ -5,3 +5,4 @@
 **已完成：**
 
 - 支持向量机 - Support Vector Machine
+- 感知机 - Perceptron
